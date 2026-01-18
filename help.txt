@@ -1,5 +1,6 @@
 #changed to demostrate git pull command
 #Second change to demostrate git push command
+#Third change to demostrate SSH comunication
 
 基本功能键：DEL(删除) AC(清零) MODE(模式选择) SCI(精度选择) ON(开关机) HELP(帮助) 左右移动键
 运算输入键: 0-9 + - * / . , =
